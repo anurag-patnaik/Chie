@@ -1,4 +1,4 @@
 Chie
 ====
 
-Chie - You social assistant - test
+Chie - You social assistant
